@@ -5,3 +5,6 @@ A list of web applications developed by vernonthedev under Veike Tech Company In
 
 Veike website: 
 https://vernonthedev.github.io/webapps/veike/
+
+Techninnovate
+https://vernonthedev.github.io/webapps/techinnovate/index.html
