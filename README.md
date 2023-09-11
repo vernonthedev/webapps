@@ -13,4 +13,6 @@ https://vernonthedev.github.io/webapps/veike/
 Techninnovate
 https://vernonthedev.github.io/webapps/techinnovate/index.html
 
+EasyCoffee | Mobile App Website Landing page
+https://vernonthedev.github.io/webapps/easycoffee/index.html
 
