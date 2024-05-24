@@ -18,6 +18,10 @@
 # Developed Web Applications and Languages
 
 ## Portfolio Website
+vernonthedev's portfolio website
+https://vernonthedev.github.io
+
+## Web Applications Main Content Website
 Added my new and latest portfolio website
 https://vernonthedev.github.io/webapps
 
